@@ -1,0 +1,2 @@
+Add widget serializer (to check for changes of a widget)
+Add lazy widgets (only update widgets if they have changed)
